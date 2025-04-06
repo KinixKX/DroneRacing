@@ -10,7 +10,7 @@ Free VRChat world prefab to create courses for VRC+ Drones with Persistence inte
 
 ### Setup on Scene
 
-If you wish to adjust the main panel with the game instructions, ensure you are onlym modifying the `GameCanvas` and
+If you wish to adjust the main panel with the game instructions, ensure you are only modifying the `GameCanvas` and
 `SpectatorCanvas` objects. You can scale, rotate and move them anywhere in your scene.
 
 ![image](https://github.com/user-attachments/assets/fecf10fb-190f-4421-8e23-97c24c74918b)
