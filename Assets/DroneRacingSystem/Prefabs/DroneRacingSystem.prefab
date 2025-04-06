@@ -7415,7 +7415,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Drone Racing System v0.3
+  m_text: 'Drone Racing System v1.0
 
     by Kinix'
   m_isRightToLeft: 0
